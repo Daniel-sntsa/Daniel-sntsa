@@ -36,6 +36,6 @@ Graduando em Engenharia Elétrica pela Universidade Federal do Rio de Janeiro, c
 
 ## 📫 Como me encontrar  
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-santos)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-dos-santos-amador-a0a1581bb)  
 - ✉️ **daniel.santos@email.com**  
 
