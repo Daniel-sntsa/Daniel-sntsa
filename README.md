@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Daniel Santos
 
-<!--
-**Daniel-sntsa/Daniel-sntsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia Elétrica na UFRJ  
+⚡ Interessado em energia, eletrônica e desenvolvimento de soluções inovadoras  
+💻 Atualmente aprendendo e criando projetos em Python, controle e automação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-sntsa&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Tecnologias que utilizo  
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MATLAB" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+  <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</div>
+
+---
+
+## 📫 Como me encontrar  
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-dos-santos-amador-a0a1581bb)  
+- ✉️ daniel.santos@email.com  
+
