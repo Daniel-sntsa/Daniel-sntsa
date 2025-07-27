@@ -46,5 +46,5 @@
 ## 📫 Como me encontrar  
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-dos-santos-amador-a0a1581bb)  
-- ✉️ **daniel.santos@email.com**  
+- ✉️ **danields.amador@gmail.com**  
 
