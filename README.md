@@ -1,10 +1,19 @@
-# 👋 Olá! Eu sou o Daniel Santos
+# 👋 Olá, mundo!  
 
-🎓 Estudante de Engenharia Elétrica na UFRJ  
-⚡ Interessado em energia, eletrônica e desenvolvimento de soluções inovadoras  
-💻 Atualmente aprendendo e criando projetos em Python, controle e automação
+### ESTUDANTE DE ENGENHARIA ELÉTRICA – Universidade Federal do Rio de Janeiro  
+
+Graduando em Engenharia Elétrica pela Universidade Federal do Rio de Janeiro, com interesse em energia, eletrônica e desenvolvimento de soluções inovadoras.
 
 ---
+
+## 🚀 Sobre mim  
+
+- ⚡ Tenho experiência acadêmica em sistemas elétricos, eficiência energética e automação industrial.  
+- 🔌 Desenvolvo projetos envolvendo Python, controle, automação e eletrônica embarcada.  
+- 💡 Apaixonado por tecnologia, aprendizado contínuo e boas práticas de programação.  
+
+---
+
 
 ## 📈 GitHub Stats
 
@@ -12,20 +21,21 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo  
+
+## 🛠️ Tecnologias que utilizo  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MATLAB" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
 </div>
 
 ---
 
 ## 📫 Como me encontrar  
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-dos-santos-amador-a0a1581bb)  
-- ✉️ daniel.santos@email.com  
+- [LinkedIn](https://www.linkedin.com/in/daniel-santos)  
+- ✉️ **daniel.santos@email.com**  
 
