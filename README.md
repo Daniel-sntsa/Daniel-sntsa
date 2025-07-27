@@ -1,8 +1,9 @@
+  # 👋 Olá, mundo! 
 <p align="center">
-  # 👋 Olá, mundo!  
-  ### ESTUDANTE DE ENGENHARIA ELÉTRICA – UFRJ  
-  Graduando em Engenharia Elétrica pela Universidade Federal do Rio de Janeiro, com interesse em energia, eletrônica e desenvolvimento de soluções inovadoras.
-  ---
+ 
+  <p align="center"><b>ELECTRICAL ENGINEERING</b></p>
+  <p align="center">Graduando em Engenharia Elétrica pela Universidade Federal do Rio de Janeiro</p> 
+ 
 </p>
 
 
