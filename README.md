@@ -18,12 +18,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-sntsa&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-sntsa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-sntsa&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-sntsa&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-sntsa/Daniel-sntsa/output/github-contribution-grid-snake-dark.svg">
